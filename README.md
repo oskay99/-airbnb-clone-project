@@ -101,10 +101,121 @@ Identifying design properties in your mockups is a critical step in the design-t
 
 ---
 
-Once you have the exact style tokens from Figma, fill in the template above and commit to your README.  
+## 👥 Project Roles and Responsibilities
 
-If you like, I can help you **convert those Figma tokens into a Tailwind config snippet** so you can directly use them in your project. Want me to generate that now?
-::contentReference[oaicite:0]{index=0}
+A successful full-stack project like the **Airbnb Clone** requires clearly defined roles and responsibilities to ensure efficiency, accountability, and collaboration across all areas — from design to deployment.
+
+Below is the breakdown of each key project role and their contributions.
+
+---
+
+### 🧭 Project Manager
+**Key Responsibilities:**
+- Oversee the overall project timeline and delivery.
+- Coordinate tasks and communication between team members.
+- Track milestones and ensure objectives are met on schedule.
+- Manage risk, changes, and scope during the project lifecycle.
+
+**Contribution:**
+The Project Manager ensures alignment between team goals and project outcomes, keeping all tasks organized and delivered on time.
+
+---
+
+### 💻 Frontend Developers
+**Key Responsibilities:**
+- Implement responsive UI components using React/Next.js and Tailwind CSS.
+- Integrate frontend with backend APIs for data rendering.
+- Maintain consistency with the Figma design system.
+- Ensure accessibility and performance optimization.
+
+**Contribution:**
+Frontend Developers bring the user interface to life — building the core user experience and making the design functional and interactive.
+
+---
+
+### ⚙️ Backend Developers
+**Key Responsibilities:**
+- Develop and maintain RESTful/GraphQL APIs.
+- Design and manage database models using Prisma and PostgreSQL.
+- Implement business logic for listings, bookings, and authentication.
+- Handle data validation, security, and performance optimization.
+
+**Contribution:**
+Backend Developers ensure the application’s functionality, data integrity, and performance behind the scenes — powering the core booking system.
+
+---
+
+### 🎨 Designers
+**Key Responsibilities:**
+- Create wireframes, mockups, and prototypes in Figma.
+- Define color schemes, typography, and design tokens.
+- Ensure usability, accessibility, and visual consistency.
+- Collaborate with developers for accurate implementation.
+
+**Contribution:**
+Designers shape the visual identity and user journey of the Airbnb Clone, ensuring an engaging and intuitive experience for all users.
+
+---
+
+### 🧪 QA / Testers
+**Key Responsibilities:**
+- Write and execute test cases for UI and API functionalities.
+- Perform unit, integration, and regression testing.
+- Identify and document bugs and usability issues.
+- Validate that new features do not break existing functionality.
+
+**Contribution:**
+QA/Testers maintain application quality and stability, ensuring a bug-free and reliable user experience.
+
+---
+
+### ☁️ DevOps Engineers
+**Key Responsibilities:**
+- Set up CI/CD pipelines for automated testing and deployment.
+- Manage server infrastructure and environment variables.
+- Configure production environments (Vercel, Supabase).
+- Monitor performance, uptime, and security.
+
+**Contribution:**
+DevOps Engineers streamline deployment and ensure the system runs smoothly across all environments — from development to production.
+
+---
+
+### 🧑‍💼 Product Owner
+**Key Responsibilities:**
+- Define product vision, goals, and feature priorities.
+- Communicate user and stakeholder needs to the team.
+- Approve features and ensure alignment with business objectives.
+
+**Contribution:**
+The Product Owner ensures the product meets real-world user needs and delivers maximum business value.
+
+---
+
+### 🚀 Scrum Master
+**Key Responsibilities:**
+- Facilitate agile ceremonies (daily stand-ups, sprints, retrospectives).
+- Remove blockers and improve team workflow.
+- Promote continuous improvement within the team.
+
+**Contribution:**
+The Scrum Master enables effective teamwork and ensures that the agile process drives productivity and progress.
+
+---
+
+### ✅ Summary Table
+
+| **Role** | **Primary Focus** | **Key Tools / Deliverables** |
+|-----------|-------------------|-------------------------------|
+| Project Manager | Coordination & Timeline | Project board, Reports |
+| Frontend Developers | UI Implementation | React/Next.js, Tailwind, API integration |
+| Backend Developers | Server & Database Logic | Node.js, Prisma, PostgreSQL |
+| Designers | Visual Design & UX | Figma, Design Tokens |
+| QA / Testers | Quality Assurance | Jest, Manual Testing |
+| DevOps Engineers | CI/CD & Infrastructure | GitHub Actions, Vercel |
+| Product Owner | Vision & Requirements | Feature Backlog |
+| Scrum Master | Team Productivity | Sprint Planning, Stand-ups |
+
 
 
 ## 📄 License
