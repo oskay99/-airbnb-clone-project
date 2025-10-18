@@ -217,6 +217,35 @@ The Scrum Master enables effective teamwork and ensures that the agile process d
 | Scrum Master | Team Productivity | Sprint Planning, Stand-ups |
 
 
+🧩 4. UI Component Patterns
+Objective
+
+To explore and define the reusable UI components that will be built for the AirBnB Clone project.
+
+Overview
+
+UI components help maintain consistency across the application, improve scalability, and make collaboration between frontend developers seamless.
+Below are the main components that will be designed and implemented.
+
+Component	Description	Purpose
+Navbar	A responsive navigation bar containing the logo, navigation links (Home, Explore, Login/Signup), and user profile icon.	Provides users with quick access to different sections of the platform and maintains consistent navigation across all pages.
+Property Card	Displays essential property details such as image, name, price, location, and ratings.	Serves as the main UI element for showcasing listings on the homepage or search result pages.
+Footer	A section displayed at the bottom of the page containing links (About, Contact, Terms, Privacy Policy).	Improves accessibility and gives users access to informational and support pages.
+Search Bar	Allows users to filter listings by destination, dates, and number of guests.	Enhances user experience by providing quick search capabilities.
+Booking Form	Collects user booking details including check-in/out dates and guest information.	Supports the booking process in the checkout flow.
+Button Variants	Includes primary, secondary, and outlined button styles used across different views.	Promotes consistency and visual hierarchy in the UI.
+Modal/Popup	Used for login, signup, or confirmation messages.	Keeps the user focused while performing small tasks without navigating away.
+Importance of UI Component Patterns
+
+Reusability: Reduces redundancy by reusing components across multiple pages.
+
+Consistency: Ensures uniform styling and behavior across the entire platform.
+
+Scalability: Allows easy updates and modifications without breaking the overall design.
+
+Team Collaboration: Developers can work independently on specific components while maintaining a unified look.
+
+
 
 ## 📄 License
 MIT License
